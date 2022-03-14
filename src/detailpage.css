@@ -1,0 +1,27 @@
+.review{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+}
+
+.review-content{
+    margin-right: 16px;
+  margin-left: 16px
+}
+
+.p-class{
+  margin: 0
+}
+
+.stipe{
+  display: flex;
+  justify-content: center;
+
+  }
+
+.stripe{
+  display: inline-block;
+  justify-content: center;
+  margin-bottom: 1px;
+  margin-left: 15px;
+}
